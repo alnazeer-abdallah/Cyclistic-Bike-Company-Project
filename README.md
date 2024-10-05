@@ -12,6 +12,8 @@ Duplicate values were removed from all tables using their ride_id. Ride length a
 
 ## Data Analysis and Result
 
+![Cyclistic](https://github.com/user-attachments/assets/71d5c7f1-a5d4-4425-a462-d56565f23f19)
+
 1.	Casual riders tend to ride for longer durations than members.
 2.	Casual rider usage peaks on weekends.
 3.	Cyclistic experiences low ridership during the winter season (November to February).
